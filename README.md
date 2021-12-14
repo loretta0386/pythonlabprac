@@ -12,3 +12,4 @@
 3.2: Loops<br>
 3.3: Functions<br>
 3.1.2: Exception Handling<br>
+3.4: Classes<br>
